@@ -26,21 +26,21 @@ chown <your-user-name>:<your-group-name> /var/run/swiftInstall
 
 remember change "<your-user-name>" to your current user name of your computer
 
-2.Edit /etc/fstab and add:
+2. Edit /etc/fstab and add:
 
 /srv/swift-disk /mnt/sdb1 xfs loop,noatime,nodiratime,nobarrier,logbufs=8 0 0
 /home/swift/xfs_file /tmp xfs rw,noatime,nodiratime,attr2,inode64,noquota 0 0
 
-3.edit the following line in /etc/default/rsync:
+3. edit the following line in /etc/default/rsync:
 RSYNC_ENABLE=true
 
-4.run swiftInstall.sh
+4. run swiftInstall.sh
 bash swiftInstall.sh
 
-5.Construct the initial rings using the provided script:
+5. Construct the initial rings using the provided script:
 remakerings
 
-6.Start the “main” Swift daemon processes (proxy, account, container, and object):
+6. Start the “main” Swift daemon processes (proxy, account, container, and object):
 cd $HOME/bin
 sudo ./startmain
 if it has some errors,just do it again.
@@ -54,23 +54,26 @@ finally it is the swiftbrowser install according to cschwede/django-swiftbrowser
 
 following its readme in the repository,you also need to prepare its envoiroment
 
-1.Install swiftbrowser:
+1. Install swiftbrowser:
 
 pip install django-swiftbrowser
 
-2.Install django
+2. Install django
 
 sudo apt-get install python-django
 
-3.Please make sure that "tempurl" and "formpost" middlewares are activated in your proxy server. Extract from /etc/swift/proxy-server.conf:
+3. Please make sure that "tempurl" and "formpost" middlewares are activated in your proxy server. Extract from /etc/swift/proxy-server.conf:
 
-[pipeline:main] pipeline = catch_errors gatekeeper healthcheck proxy-logging cache tempurl formpost tempauth proxy-logging proxy-server
+[pipeline:main] 
+pipeline = catch_errors gatekeeper healthcheck proxy-logging cache tempurl formpost tempauth proxy-logging proxy-server
 
-[filter:tempurl] use = egg:swift#tempurl
+[filter:tempurl] 
+use = egg:swift#tempurl
 
-[filter:formpost] use = egg:swift#formpost
+[filter:formpost] 
+use = egg:swift#formpost
 
-4.Run development server:
+4. Run development server:
 
 django-admin runserver --settings=swiftbrowser.settings
 
