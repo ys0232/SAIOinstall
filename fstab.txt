@@ -1,0 +1,11 @@
+swift need to add the following two command into /etc/fstab
+
+/srv/swift-disk /mnt/sdb1 xfs loop,noatime,nodiratime,nobarrier,logbufs=8 0 0
+/home/swift/xfs_file /tmp xfs rw,noatime,nodiratime,attr2,inode64,noquota 0 0
+
+open swiftbrowser command line
+
+django-admin runserver --settings=swiftbrowser.settings
+
+test:tester
+testing
