@@ -54,18 +54,23 @@ finally it is the swiftbrowser install according to cschwede/django-swiftbrowser
 
 following its readme in the repository,you also need to prepare its envoiroment
 
-1. Install swiftbrowser:
-
-pip install django-swiftbrowser
-
-2. Install django
+1. Install django
 
 sudo apt-get install python-django
 
-3. Please make sure that "tempurl" and "formpost" middlewares are activated in your proxy server. Extract from /etc/swift/proxy-server.conf:
+2. Install swiftbrowser:
 
+pip install django-swiftbrowser
+
+
+3. Please make sure that "tempurl" and "formpost" middlewares are activated in your proxy server. Extract from /etc/swift/proxy-server.conf:
+vim /etc/swift/proxy-server.conf
 [pipeline:main] 
 pipeline = catch_errors gatekeeper healthcheck proxy-logging cache tempurl formpost tempauth proxy-logging proxy-server
+
+pipeline = catch_errors gatekeeper healthcheck proxy-logging cache listing_formats
+ bulk tempurl ratelimit crossdomain formpost container_sync tempauth staticweb copy container-quotas account-quotas slo dlo versioned_writes proxy-logging proxy-server
+
 
 [filter:tempurl] 
 use = egg:swift#tempurl

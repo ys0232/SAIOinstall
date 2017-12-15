@@ -1,0 +1,13 @@
+simple operation of swift
+
+1. Get an X-Storage-Url and X-Auth-Token
+curl -v -H 'X-Storage-User: test:tester' -H 'X-Storage-Pass: testing' 
+http://127.0.0.1:8080/auth/v1.0
+
+2. create the file file0.txt with your favorite editor with some content
+curl -v -X PUT -H 'X-Auth-Token: <your auth token>' \
+    http://127.0.0.1:8080/v1/AUTH_test/myCont0
+curl -X PUT -v -T file0.txt -H 'X-Auth-Token: <your auth token>' \
+    http://127.0.0.1:8080/v1/AUTH_test/myCont0/file0.txt
+
+
