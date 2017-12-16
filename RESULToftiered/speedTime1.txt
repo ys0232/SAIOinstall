@@ -1,0 +1,2508 @@
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/10.1.1.24.9069.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 308123
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:03 GMT
+< Content-Length: 0
+< Etag: 0039d4d9f2889c0c7cfc770b678f9e50
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txc87c16e1a57f41e58ba03-005a3519c2
+< X-Openstack-Request-Id: txc87c16e1a57f41e58ba03-005a3519c2
+< Date: Sat, 16 Dec 2017 13:04:03 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.135s
+user	0m0.004s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/10.1.1.448.5032.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 221214
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:04 GMT
+< Content-Length: 0
+< Etag: 9f1cd921dbb6656c2c9e57f83f73d70e
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx823efce7ed8c44eabc915-005a3519c3
+< X-Openstack-Request-Id: tx823efce7ed8c44eabc915-005a3519c3
+< Date: Sat, 16 Dec 2017 13:04:03 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.544s
+user	0m0.000s
+sys	0m0.008s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/1378897457_eps.ico HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 99678
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:04 GMT
+< Content-Length: 0
+< Etag: 5aa743f381c9ef27d6cb712491f3a199
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx89cdea670d974d0d8a72d-005a3519c3
+< X-Openstack-Request-Id: tx89cdea670d974d0d8a72d-005a3519c3
+< Date: Sat, 16 Dec 2017 13:04:03 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.083s
+user	0m0.004s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/1704.00177.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 106149
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:04 GMT
+< Content-Length: 0
+< Etag: afea5c396f3b55ddf6f017df02689acb
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txf873ac4ae88c474588f24-005a3519c3
+< X-Openstack-Request-Id: txf873ac4ae88c474588f24-005a3519c3
+< Date: Sat, 16 Dec 2017 13:04:03 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.122s
+user	0m0.000s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/228_ppt.pptx.pptx HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 5988027
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:04 GMT
+< Content-Length: 0
+< Etag: f2c7d1f761f7794946982c68d3996b9f
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx57f47f6c5b294576a4cff-005a3519c3
+< X-Openstack-Request-Id: tx57f47f6c5b294576a4cff-005a3519c3
+< Date: Sat, 16 Dec 2017 13:04:04 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.552s
+user	0m0.004s
+sys	0m0.008s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/2Gresult.rar HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 520036
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:05 GMT
+< Content-Length: 0
+< Etag: f4c28080d628fa8d04ab95e1dc83c230
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx32cc5578ae4d4e15b3b2b-005a3519c4
+< X-Openstack-Request-Id: tx32cc5578ae4d4e15b3b2b-005a3519c4
+< Date: Sat, 16 Dec 2017 13:04:04 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.165s
+user	0m0.000s
+sys	0m0.008s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/712085.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 1554178
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:05 GMT
+< Content-Length: 0
+< Etag: ef159dad957c3efef5a5cca7a0ea3371
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx2d62f38faf914df5b0b26-005a3519c4
+< X-Openstack-Request-Id: tx2d62f38faf914df5b0b26-005a3519c4
+< Date: Sat, 16 Dec 2017 13:04:04 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.227s
+user	0m0.004s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/Ally_525_presentation.pptx HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 1665582
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:05 GMT
+< Content-Length: 0
+< Etag: 7d77f346bf8f2e93689ac740348f9423
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx62b724aadfe745fda0272-005a3519c4
+< X-Openstack-Request-Id: tx62b724aadfe745fda0272-005a3519c4
+< Date: Sat, 16 Dec 2017 13:04:04 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.264s
+user	0m0.004s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/Automation.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 2062414
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:05 GMT
+< Content-Length: 0
+< Etag: edfdf703c11acc40d2ff24329fe6e65a
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx5ad537ebc901470f92e3a-005a3519c4
+< X-Openstack-Request-Id: tx5ad537ebc901470f92e3a-005a3519c4
+< Date: Sat, 16 Dec 2017 13:04:05 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.250s
+user	0m0.004s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/Chapter5-厦门大学-林子雨-大数据处理技术Spark-第5章-Spark编程基础（2017年春季学期）.ppt HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 4023808
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:06 GMT
+< Content-Length: 0
+< Etag: fde4c39d1decfe0bbab26c1e20877fdb
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txc37b07a1f2194ac4afca7-005a3519c5
+< X-Openstack-Request-Id: txc37b07a1f2194ac4afca7-005a3519c5
+< Date: Sat, 16 Dec 2017 13:04:05 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.468s
+user	0m0.008s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/codeblocks-13.12mingw-setup-20170925.zip HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 102142287
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:06 GMT
+< Content-Length: 0
+< Etag: 1fc252b23199099e914e6228fb4df459
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx79da64735306434d9ba57-005a3519c5
+< X-Openstack-Request-Id: tx79da64735306434d9ba57-005a3519c5
+< Date: Sat, 16 Dec 2017 13:04:14 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m8.557s
+user	0m0.028s
+sys	0m0.184s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/codeblocks-13.12mingw-setup.exe HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 102611063
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:15 GMT
+< Content-Length: 0
+< Etag: 58c1120e35f306d4903c0113740c31e3
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx243d603670c24ed2b9d0b-005a3519ce
+< X-Openstack-Request-Id: tx243d603670c24ed2b9d0b-005a3519ce
+< Date: Sat, 16 Dec 2017 13:04:22 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m8.116s
+user	0m0.028s
+sys	0m0.144s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/create_pdf.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 858896
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:23 GMT
+< Content-Length: 0
+< Etag: 96beef9eb274738982b427fe8372f101
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx336b1be232174ab79bd64-005a3519d6
+< X-Openstack-Request-Id: tx336b1be232174ab79bd64-005a3519d6
+< Date: Sat, 16 Dec 2017 13:04:22 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.287s
+user	0m0.008s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/CSE-06-12.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 393810
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:23 GMT
+< Content-Length: 0
+< Etag: b40be7d238f54354e900ddf60375841f
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx5f216a7c5bc042ac873ec-005a3519d6
+< X-Openstack-Request-Id: tx5f216a7c5bc042ac873ec-005a3519d6
+< Date: Sat, 16 Dec 2017 13:04:22 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.152s
+user	0m0.008s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/dom4j-1.6.1.jar HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 313898
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:23 GMT
+< Content-Length: 0
+< Etag: 4d8f51d3fe3900efc6e395be48030d6d
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txac9234d62ca842fcad256-005a3519d6
+< X-Openstack-Request-Id: txac9234d62ca842fcad256-005a3519d6
+< Date: Sat, 16 Dec 2017 13:04:22 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.086s
+user	0m0.004s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/drivethelife6_net_setup.exe HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 242977432
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:23 GMT
+< Content-Length: 0
+< Etag: e20a66fd5f2824c6256074dfb13296bc
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx305969133bc4464bafa7a-005a3519d6
+< X-Openstack-Request-Id: tx305969133bc4464bafa7a-005a3519d6
+< Date: Sat, 16 Dec 2017 13:04:43 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m20.302s
+user	0m0.028s
+sys	0m0.372s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/EMNLP2013_RNTN.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 1307908
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:44 GMT
+< Content-Length: 0
+< Etag: b3062f732ffff3c86b20901ba80ec6f2
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx529d998d46a1439eb01a6-005a3519eb
+< X-Openstack-Request-Id: tx529d998d46a1439eb01a6-005a3519eb
+< Date: Sat, 16 Dec 2017 13:04:43 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.234s
+user	0m0.008s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/epshleper32.dll HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 600576
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:44 GMT
+< Content-Length: 0
+< Etag: e58eeb261a1c44a8ff8814e73813e56d
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx90038976ccff4b73b9e15-005a3519eb
+< X-Openstack-Request-Id: tx90038976ccff4b73b9e15-005a3519eb
+< Date: Sat, 16 Dec 2017 13:04:43 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.189s
+user	0m0.008s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/epshleper62.dll HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 649728
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:44 GMT
+< Content-Length: 0
+< Etag: d87905c92da65b7deea613257d2973b4
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txa77d0bff0f424ad287a11-005a3519eb
+< X-Openstack-Request-Id: txa77d0bff0f424ad287a11-005a3519eb
+< Date: Sat, 16 Dec 2017 13:04:43 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.185s
+user	0m0.004s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/experimaent.opj HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 12724
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:44 GMT
+< Content-Length: 0
+< Etag: 4d47b1240a509e5d61344911de58c159
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txd6dfdbc0e5f94426a054c-005a3519eb
+< X-Openstack-Request-Id: txd6dfdbc0e5f94426a054c-005a3519eb
+< Date: Sat, 16 Dec 2017 13:04:43 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.068s
+user	0m0.004s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/experiment.opj HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 31010
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:44 GMT
+< Content-Length: 0
+< Etag: a79b8534f6612fd743c30c2f8cd0bacf
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txb2ac10dbab7a41b98595c-005a3519eb
+< X-Openstack-Request-Id: txb2ac10dbab7a41b98595c-005a3519eb
+< Date: Sat, 16 Dec 2017 13:04:43 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.070s
+user	0m0.004s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/f89c9242f928c14523410744ea478c71.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 4044249
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:44 GMT
+< Content-Length: 0
+< Etag: 8a2592ac3c849a9430086a54f8005a17
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txb5106ec0e67c4d49b7aa8-005a3519eb
+< X-Openstack-Request-Id: txb5106ec0e67c4d49b7aa8-005a3519eb
+< Date: Sat, 16 Dec 2017 13:04:44 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.472s
+user	0m0.000s
+sys	0m0.012s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/Fairness.FA17.pptx HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 3311854
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:45 GMT
+< Content-Length: 0
+< Etag: 44e799df274adff9f4577ac265ebd814
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx65f180028df147b9b6792-005a3519ec
+< X-Openstack-Request-Id: tx65f180028df147b9b6792-005a3519ec
+< Date: Sat, 16 Dec 2017 13:04:44 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.484s
+user	0m0.008s
+sys	0m0.004s
+curl: Can't open 'Free'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.010s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open 'EPS'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.012s
+user	0m0.008s
+sys	0m0.004s
+curl: Can't open 'Viewer.exe'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.027s
+user	0m0.004s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/FreeEPSViewer.rar HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 10343969
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:45 GMT
+< Content-Length: 0
+< Etag: e55ddacd3d49be9c02b46eaf6f0ab496
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx7c3c558f39f047d6a06ae-005a3519ec
+< X-Openstack-Request-Id: tx7c3c558f39f047d6a06ae-005a3519ec
+< Date: Sat, 16 Dec 2017 13:04:46 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m1.068s
+user	0m0.008s
+sys	0m0.016s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/gecon15.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 427187
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:47 GMT
+< Content-Length: 0
+< Etag: 9947d2ffc921ac5a224bee192a96dafd
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx574fd92744c94c95b7b5c-005a3519ee
+< X-Openstack-Request-Id: tx574fd92744c94c95b7b5c-005a3519ee
+< Date: Sat, 16 Dec 2017 13:04:46 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.136s
+user	0m0.004s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/gecon15.pdf.doc HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 834048
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:47 GMT
+< Content-Length: 0
+< Etag: 36d4ec3d6095208cb43e82b652271bee
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx02a8399e2e9647c99fa04-005a3519ee
+< X-Openstack-Request-Id: tx02a8399e2e9647c99fa04-005a3519ee
+< Date: Sat, 16 Dec 2017 13:04:46 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.203s
+user	0m0.008s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/hadoop-2.7.1.tar.gz HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 210606807
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:04:47 GMT
+< Content-Length: 0
+< Etag: 203e5b4daf1c5658c3386a32c4be5531
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx855902a1c6324b55bfcf7-005a3519ee
+< X-Openstack-Request-Id: tx855902a1c6324b55bfcf7-005a3519ee
+< Date: Sat, 16 Dec 2017 13:05:07 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m20.820s
+user	0m0.028s
+sys	0m0.316s
+curl: Can't open 'how'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.021s
+user	0m0.000s
+sys	0m0.008s
+curl: Can't open 'to'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.049s
+user	0m0.004s
+sys	0m0.004s
+curl: Can't open 'present.rar'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.036s
+user	0m0.008s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/ichesm86ejec4ikos1vv8wl5bihff5.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 2872552
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:08 GMT
+< Content-Length: 0
+< Etag: 942843bdafc488015c2b29661771f6fa
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx575cec6750c3422aa9c8f-005a351a03
+< X-Openstack-Request-Id: tx575cec6750c3422aa9c8f-005a351a03
+< Date: Sat, 16 Dec 2017 13:05:07 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.517s
+user	0m0.008s
+sys	0m0.008s
+curl: Can't open 'Introduction'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.014s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open 'to'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.014s
+user	0m0.000s
+sys	0m0.004s
+curl: Can't open 'Distributed'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.014s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open 'Algorithms(Second'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.007s
+user	0m0.000s
+sys	0m0.004s
+curl: Can't open 'Edition).pdf'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.010s
+user	0m0.004s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/JuveG-Characterizing.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 4463873
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:08 GMT
+< Content-Length: 0
+< Etag: 2c896fc1c0d692271e850e78ea40b35a
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx86ef1bbfb32c48b1959cf-005a351a03
+< X-Openstack-Request-Id: tx86ef1bbfb32c48b1959cf-005a351a03
+< Date: Sat, 16 Dec 2017 13:05:08 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.581s
+user	0m0.008s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/lecture02.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 100662
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:09 GMT
+< Content-Length: 0
+< Etag: d9e60c712b30f578b96e2d4f015ef8ac
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx14bb6bafe917473a90e97-005a351a04
+< X-Openstack-Request-Id: tx14bb6bafe917473a90e97-005a351a04
+< Date: Sat, 16 Dec 2017 13:05:08 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.131s
+user	0m0.004s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/Lecture15.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 2209232
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:09 GMT
+< Content-Length: 0
+< Etag: 0be7865123aeff2a990e1d5280b6896c
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx105304d31ce54fcab578e-005a351a04
+< X-Openstack-Request-Id: tx105304d31ce54fcab578e-005a351a04
+< Date: Sat, 16 Dec 2017 13:05:08 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.279s
+user	0m0.004s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/Lecture16.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 1042903
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:09 GMT
+< Content-Length: 0
+< Etag: 24fa79c55949418257e0378672531e30
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx3f649a6f3e3e4f62b125f-005a351a04
+< X-Openstack-Request-Id: tx3f649a6f3e3e4f62b125f-005a351a04
+< Date: Sat, 16 Dec 2017 13:05:09 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.197s
+user	0m0.004s
+sys	0m0.008s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/Lecture17.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 503388
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:10 GMT
+< Content-Length: 0
+< Etag: 832422f6c9e453b4180f3f875eaed0f8
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx29eb26e5902842598d2c6-005a351a05
+< X-Openstack-Request-Id: tx29eb26e5902842598d2c6-005a351a05
+< Date: Sat, 16 Dec 2017 13:05:09 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.162s
+user	0m0.008s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/MachineLearning.pptx HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 10310209
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:10 GMT
+< Content-Length: 0
+< Etag: 0384a1ef12cfaa951b4e69e042b948b2
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx6a65dd824bb14629a6559-005a351a05
+< X-Openstack-Request-Id: tx6a65dd824bb14629a6559-005a351a05
+< Date: Sat, 16 Dec 2017 13:05:10 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m1.117s
+user	0m0.000s
+sys	0m0.024s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/MediaID.bin HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 528
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:11 GMT
+< Content-Length: 0
+< Etag: 2831ce61c7846741d7ab766562ceef1b
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx84a79d63936b4e4b9025f-005a351a06
+< X-Openstack-Request-Id: tx84a79d63936b4e4b9025f-005a351a06
+< Date: Sat, 16 Dec 2017 13:05:10 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.067s
+user	0m0.008s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/MobileCloudComputing-Survey_FGCS2013.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 1032226
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:11 GMT
+< Content-Length: 0
+< Etag: 1eb6508e9ed64f6163a46ec21ff03466
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx3afb906c6137404c8d569-005a351a06
+< X-Openstack-Request-Id: tx3afb906c6137404c8d569-005a351a06
+< Date: Sat, 16 Dec 2017 13:05:10 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.227s
+user	0m0.004s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/OnlineFriends.ppt HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 4742144
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:11 GMT
+< Content-Length: 0
+< Etag: 69d175428ea4f65bb6ca695986c5c215
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx5378271e31a74be4987fc-005a351a06
+< X-Openstack-Request-Id: tx5378271e31a74be4987fc-005a351a06
+< Date: Sat, 16 Dec 2017 13:05:11 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.688s
+user	0m0.004s
+sys	0m0.008s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/openstack-Swift安装测试报告.docx HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 1297418
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:12 GMT
+< Content-Length: 0
+< Etag: 6396b6a88a411c65c91c3fdd984a2fbd
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx351846f6828247058dc16-005a351a07
+< X-Openstack-Request-Id: tx351846f6828247058dc16-005a351a07
+< Date: Sat, 16 Dec 2017 13:05:12 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.722s
+user	0m0.012s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/origin8.zip HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 157359836
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:13 GMT
+< Content-Length: 0
+< Etag: 1f4f6c273908da80bea65e3617606c8b
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txc10ff72fbac54c83a7c9d-005a351a08
+< X-Openstack-Request-Id: txc10ff72fbac54c83a7c9d-005a351a08
+< Date: Sat, 16 Dec 2017 13:05:27 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m15.449s
+user	0m0.060s
+sys	0m0.216s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/p558-lamport.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 850353
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:28 GMT
+< Content-Length: 0
+< Etag: afdf4575c9db217148776acbc737ec65
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx606d59e3eb364ac1808df-005a351a17
+< X-Openstack-Request-Id: tx606d59e3eb364ac1808df-005a351a17
+< Date: Sat, 16 Dec 2017 13:05:27 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.215s
+user	0m0.008s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/parsec_sus.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 1363215
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:28 GMT
+< Content-Length: 0
+< Etag: be817c70bcb4e9452ca7d04e90219046
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txd4d0633c78874f1a9d2e4-005a351a17
+< X-Openstack-Request-Id: txd4d0633c78874f1a9d2e4-005a351a17
+< Date: Sat, 16 Dec 2017 13:05:27 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.280s
+user	0m0.008s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/PB_Scheduling-master.zip HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 213188
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:29 GMT
+< Content-Length: 0
+< Etag: 54326bb1d767e76e1a7a51813a3c0e17
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txd5cc1762c83c4b11b0340-005a351a17
+< X-Openstack-Request-Id: txd5cc1762c83c4b11b0340-005a351a17
+< Date: Sat, 16 Dec 2017 13:05:28 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.179s
+user	0m0.004s
+sys	0m0.008s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/Presentation_NOPaxos_XFT-2.pptx HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 3486880
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:29 GMT
+< Content-Length: 0
+< Etag: 908c358aed39bf6a3e8d1bad55b21f9c
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx8fbfd822ab7340ae9aa01-005a351a18
+< X-Openstack-Request-Id: tx8fbfd822ab7340ae9aa01-005a351a18
+< Date: Sat, 16 Dec 2017 13:05:28 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.457s
+user	0m0.000s
+sys	0m0.012s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/resultSize600.rar HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 551370
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:29 GMT
+< Content-Length: 0
+< Etag: 6a9f8e3496fbb16faeed91c964fd1899
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx5e411c1ddb9a41e98245a-005a351a18
+< X-Openstack-Request-Id: tx5e411c1ddb9a41e98245a-005a351a18
+< Date: Sat, 16 Dec 2017 13:05:28 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.144s
+user	0m0.000s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/SparkSisters.pptx HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 2544885
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:29 GMT
+< Content-Length: 0
+< Etag: f19b82ec5f6ee1e312a9de77ff63c17f
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx5ecdb42ad6ad48319df6a-005a351a18
+< X-Openstack-Request-Id: tx5ecdb42ad6ad48319df6a-005a351a18
+< Date: Sat, 16 Dec 2017 13:05:29 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.563s
+user	0m0.004s
+sys	0m0.008s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/spark作业.rar HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 1045456
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:30 GMT
+< Content-Length: 0
+< Etag: 0cc9fb4d549d80e73ea40629af8ea8bd
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx1c2821ed326d48a0bb67e-005a351a19
+< X-Openstack-Request-Id: tx1c2821ed326d48a0bb67e-005a351a19
+< Date: Sat, 16 Dec 2017 13:05:29 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.258s
+user	0m0.012s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/Spark安装说明.doc HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 27136
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:30 GMT
+< Content-Length: 0
+< Etag: 580cea2f0dfac653ea37956a6abd1402
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx96c000c77446444fabff3-005a351a19
+< X-Openstack-Request-Id: tx96c000c77446444fabff3-005a351a19
+< Date: Sat, 16 Dec 2017 13:05:29 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.082s
+user	0m0.000s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/srds10-vmdriver.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 1137278
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:30 GMT
+< Content-Length: 0
+< Etag: a811840e144b7d6385ed8c629b3881bf
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txf8056533f90041cc969e6-005a351a19
+< X-Openstack-Request-Id: txf8056533f90041cc969e6-005a351a19
+< Date: Sat, 16 Dec 2017 13:05:29 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.215s
+user	0m0.008s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/SSH.rar HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 2411101833
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:05:30 GMT
+< Content-Length: 0
+< Etag: e217206e9c1222e129750fd1e5aba2e7
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx1c5e084ef0054d3889703-005a351a19
+< X-Openstack-Request-Id: tx1c5e084ef0054d3889703-005a351a19
+< Date: Sat, 16 Dec 2017 13:08:54 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	3m24.891s
+user	0m0.440s
+sys	0m3.280s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/StreamProcessing.SP17.pptx HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 1709907
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:08:55 GMT
+< Content-Length: 0
+< Etag: f2ff17a057d6f426e020f3ce7db18e57
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx74fba715e04c4104bb426-005a351ae6
+< X-Openstack-Request-Id: tx74fba715e04c4104bb426-005a351ae6
+< Date: Sat, 16 Dec 2017 13:08:55 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.356s
+user	0m0.008s
+sys	0m0.016s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/TPDS26.10.2015.docx HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 1146781
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:08:56 GMT
+< Content-Length: 0
+< Etag: 20b076f7e31fe743e167f51a5758c93c
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx4da7eb2d1a18436bad041-005a351ae7
+< X-Openstack-Request-Id: tx4da7eb2d1a18436bad041-005a351ae7
+< Date: Sat, 16 Dec 2017 13:08:55 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.295s
+user	0m0.004s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/TPDS26.10.2015.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 830975
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:08:56 GMT
+< Content-Length: 0
+< Etag: 2f0c8966d6cc1878c2aea959d4e64bc6
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx204b243d8f2d430a857b0-005a351ae7
+< X-Openstack-Request-Id: tx204b243d8f2d430a857b0-005a351ae7
+< Date: Sat, 16 Dec 2017 13:08:55 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.181s
+user	0m0.004s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/UNTITLED.opj HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 1896
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:08:56 GMT
+< Content-Length: 0
+< Etag: 5c0b13d1303ef29198fc692dd07b7d22
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txbc8b6e9b129f44deb1e2c-005a351ae7
+< X-Openstack-Request-Id: txbc8b6e9b129f44deb1e2c-005a351ae7
+< Date: Sat, 16 Dec 2017 13:08:55 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.080s
+user	0m0.004s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/wajih_525_presentation.pptx HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 2452636
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:08:56 GMT
+< Content-Length: 0
+< Etag: 4ee0b70e6df49193c8634fe638828ed0
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx7a5d7dcff8d3411bbf4f4-005a351ae7
+< X-Openstack-Request-Id: tx7a5d7dcff8d3411bbf4f4-005a351ae7
+< Date: Sat, 16 Dec 2017 13:08:56 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.351s
+user	0m0.004s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/webapp1.tar.gz HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 9368
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:08:57 GMT
+< Content-Length: 0
+< Etag: e16ca1c1ba643ee3c3891617fa51d696
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txcb57826653fc40a58b4d0-005a351ae8
+< X-Openstack-Request-Id: txcb57826653fc40a58b4d0-005a351ae8
+< Date: Sat, 16 Dec 2017 13:08:56 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.112s
+user	0m0.004s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/wvSent_acl2011.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 197893
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:08:57 GMT
+< Content-Length: 0
+< Etag: 4bdd7290f9d98853815168ced1821b4d
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx42970808af79443aa9728-005a351ae8
+< X-Openstack-Request-Id: tx42970808af79443aa9728-005a351ae8
+< Date: Sat, 16 Dec 2017 13:08:56 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.144s
+user	0m0.000s
+sys	0m0.008s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/一种基于跳跃hash的对象分布算法_聂世强.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 1815617
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:08:57 GMT
+< Content-Length: 0
+< Etag: 607e3130523ae9297467fb0445d81d62
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txc80e694c6e1747fbb93d9-005a351ae8
+< X-Openstack-Request-Id: txc80e694c6e1747fbb93d9-005a351ae8
+< Date: Sat, 16 Dec 2017 13:08:56 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.310s
+user	0m0.008s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/一种网络编码分布式存储系统中的数据更新策略_刘冰星.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 921879
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:08:57 GMT
+< Content-Length: 0
+< Etag: d37942355803d0ecc7b9e77777517eba
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx2222863198674cdf847bd-005a351ae8
+< X-Openstack-Request-Id: tx2222863198674cdf847bd-005a351ae8
+< Date: Sat, 16 Dec 2017 13:08:56 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.292s
+user	0m0.004s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/一种自适应文件系统元数据服务负载均衡策略_佘楚玉.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 961798
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:08:57 GMT
+< Content-Length: 0
+< Etag: 9be575ca6a9f921023e51bd6d55fb357
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx521e6a7a4a8c443bb71cd-005a351ae8
+< X-Openstack-Request-Id: tx521e6a7a4a8c443bb71cd-005a351ae8
+< Date: Sat, 16 Dec 2017 13:08:57 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.219s
+user	0m0.000s
+sys	0m0.008s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/关于云计算环境下的分布式存储关键技术分析_刘兰.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 93615
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:08:58 GMT
+< Content-Length: 0
+< Etag: 542bce3bf86f7bcb8b43e86c89279f62
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx75a22b55c1de485c8cec0-005a351ae9
+< X-Openstack-Request-Id: tx75a22b55c1de485c8cec0-005a351ae9
+< Date: Sat, 16 Dec 2017 13:08:57 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.170s
+user	0m0.000s
+sys	0m0.008s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/关于机会网络中分布式存储机制探讨_余恒.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 794227
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:08:58 GMT
+< Content-Length: 0
+< Etag: de9e0d28dd9e38f8d6a2790c4cca2169
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx6555d000cd04416682735-005a351ae9
+< X-Openstack-Request-Id: tx6555d000cd04416682735-005a351ae9
+< Date: Sat, 16 Dec 2017 13:08:57 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.230s
+user	0m0.012s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/分布式云存储_理论_技术_系统专题前言_黄宇.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 137078
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:08:58 GMT
+< Content-Length: 0
+< Etag: 3efd166d3fbbf887bf43e6f8e0a9a209
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx44101ab1273d4ff09dcac-005a351ae9
+< X-Openstack-Request-Id: tx44101ab1273d4ff09dcac-005a351ae9
+< Date: Sat, 16 Dec 2017 13:08:57 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.165s
+user	0m0.004s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/分布式存储方案的设计与研究_胡文波.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 251384
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:08:58 GMT
+< Content-Length: 0
+< Etag: 5d18c2f9bd4b7526427ec114001164a5
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx4f757dd9700b4301a84a7-005a351ae9
+< X-Openstack-Request-Id: tx4f757dd9700b4301a84a7-005a351ae9
+< Date: Sat, 16 Dec 2017 13:08:57 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.133s
+user	0m0.008s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/分布式存储框架在统计分析中的应用_祁军.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 128389
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:08:58 GMT
+< Content-Length: 0
+< Etag: 987fc71889a87228e811f4f9ece01c22
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx1549ca1308e54fbfb544a-005a351ae9
+< X-Openstack-Request-Id: tx1549ca1308e54fbfb544a-005a351ae9
+< Date: Sat, 16 Dec 2017 13:08:57 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.158s
+user	0m0.008s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/分布式存储浅析_雷剑.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 103634
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:08:59 GMT
+< Content-Length: 0
+< Etag: a4bec34521947215476ff95ebbd16618
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx94c1bcdcb06c411eb3afa-005a351aea
+< X-Openstack-Request-Id: tx94c1bcdcb06c411eb3afa-005a351aea
+< Date: Sat, 16 Dec 2017 13:08:58 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.148s
+user	0m0.000s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/分布式存储的并行串匹配算法的设计与分析_陈国良.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 254772
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:08:59 GMT
+< Content-Length: 0
+< Etag: 722afa99ea3eecc408e10394a2010a14
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx8ea07acf5c9a490883eaf-005a351aea
+< X-Openstack-Request-Id: tx8ea07acf5c9a490883eaf-005a351aea
+< Date: Sat, 16 Dec 2017 13:08:58 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.150s
+user	0m0.004s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/分布式存储系统中基于纠删码的编码及修复机制研究_范永骏.caj HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 2260180
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:08:59 GMT
+< Content-Length: 0
+< Etag: 8179eb93d1a5c54d700496042fdaffd3
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx47a54c3e5cfd41558651f-005a351aea
+< X-Openstack-Request-Id: tx47a54c3e5cfd41558651f-005a351aea
+< Date: Sat, 16 Dec 2017 13:08:58 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.352s
+user	0m0.008s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/分布式存储论文.rar HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 17173188
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:08:59 GMT
+< Content-Length: 0
+< Etag: 0ea6f8364ea8931e0b8a3a426b97b09b
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx4f4b19707c42405589eb6-005a351aea
+< X-Openstack-Request-Id: tx4f4b19707c42405589eb6-005a351aea
+< Date: Sat, 16 Dec 2017 13:09:00 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m1.910s
+user	0m0.012s
+sys	0m0.020s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/分布式算法设计基础（第一章）.doc HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 71168
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:09:01 GMT
+< Content-Length: 0
+< Etag: ad0abfef68ba451c0ed84eca2acd9a43
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txb96d86fdd8724e45a05b0-005a351aec
+< X-Openstack-Request-Id: txb96d86fdd8724e45a05b0-005a351aec
+< Date: Sat, 16 Dec 2017 13:09:00 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.203s
+user	0m0.008s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/刘祥南创新创业基金企业选题项目（2017年）.xls HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 68608
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:09:01 GMT
+< Content-Length: 0
+< Etag: 105580037ca69d9b1c4943f3caf52463
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx3b7e3c61a02544e3ae0ff-005a351aec
+< X-Openstack-Request-Id: tx3b7e3c61a02544e3ae0ff-005a351aec
+< Date: Sat, 16 Dec 2017 13:09:00 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.183s
+user	0m0.008s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/刘祥南创新创业基金资助项目报名表-海量对象文件存储.doc HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 48640
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:09:01 GMT
+< Content-Length: 0
+< Etag: 1df38feda54d87bc4f28c7faea97738d
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txa491dac644574557b9aec-005a351aec
+< X-Openstack-Request-Id: txa491dac644574557b9aec-005a351aec
+< Date: Sat, 16 Dec 2017 13:09:01 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.188s
+user	0m0.000s
+sys	0m0.008s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/厦门大学林子雨-大数据处理技术Spark-2017年春季学期-期末作业说明.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 302428
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:09:02 GMT
+< Content-Length: 0
+< Etag: c99ef755c448dd3de61afbfbe6edc132
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx442cf02c53ff46d7bbfa2-005a351aed
+< X-Openstack-Request-Id: tx442cf02c53ff46d7bbfa2-005a351aed
+< Date: Sat, 16 Dec 2017 13:09:01 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.177s
+user	0m0.008s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/基于主从服务器的分布式存储系统的设计与实现_王睿.caj HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 9995574
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:09:02 GMT
+< Content-Length: 0
+< Etag: 3f381a1f852a80c0e859ceaceb57bacb
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx98dc983ba3ba4684890e3-005a351aed
+< X-Openstack-Request-Id: tx98dc983ba3ba4684890e3-005a351aed
+< Date: Sat, 16 Dec 2017 13:09:02 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m1.090s
+user	0m0.000s
+sys	0m0.020s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/基于简单再生码的带宽感知的分布式存储节点修复优化_丁尚.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 581749
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:09:03 GMT
+< Content-Length: 0
+< Etag: 9740ee7841d4ebddbb1644e863e05f1b
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx80165db41c714a5cada22-005a351aee
+< X-Openstack-Request-Id: tx80165db41c714a5cada22-005a351aee
+< Date: Sat, 16 Dec 2017 13:09:02 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.201s
+user	0m0.004s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/收藏20170622-181330.html HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 17942
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:09:03 GMT
+< Content-Length: 0
+< Etag: 5a852bec8c2b9aa3cb6a752ee824e49c
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx21fcbcba51a14bb39e816-005a351aee
+< X-Openstack-Request-Id: tx21fcbcba51a14bb39e816-005a351aee
+< Date: Sat, 16 Dec 2017 13:09:02 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.094s
+user	0m0.004s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/暑期论文与代码.rar HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 2337186
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:09:03 GMT
+< Content-Length: 0
+< Etag: 9668e26a520866808d79ab66028da2d3
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx6d50f678a1394c3391715-005a351aee
+< X-Openstack-Request-Id: tx6d50f678a1394c3391715-005a351aee
+< Date: Sat, 16 Dec 2017 13:09:02 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.264s
+user	0m0.004s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/海量对象文件存储--近期工作汇报.docx HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 185733
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:09:03 GMT
+< Content-Length: 0
+< Etag: 5d52e8285e9681661460528cf9afa229
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx44d2445ef2744fd7a4eca-005a351aee
+< X-Openstack-Request-Id: tx44d2445ef2744fd7a4eca-005a351aee
+< Date: Sat, 16 Dec 2017 13:09:03 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.092s
+user	0m0.000s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/论文-徐超-v1.3.docx HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 1461019
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:09:04 GMT
+< Content-Length: 0
+< Etag: 76d136ce32e0d59a0cc587071def67aa
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txb33ceb0c30374799ad4c0-005a351aef
+< X-Openstack-Request-Id: txb33ceb0c30374799ad4c0-005a351aef
+< Date: Sat, 16 Dec 2017 13:09:03 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.196s
+user	0m0.008s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/随机二元扩展码_一种适用于分布式存储系统的编码_陈亮.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 2692862
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:09:04 GMT
+< Content-Length: 0
+< Etag: 253f4dd9eec6ce324ae27ed1f5f52083
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txf07845c3ccd343c284195-005a351aef
+< X-Openstack-Request-Id: txf07845c3ccd343c284195-005a351aef
+< Date: Sat, 16 Dec 2017 13:09:03 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.415s
+user	0m0.008s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/面向海量高清视频数据的高性能分布式存储系统_操顺德.pdf HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 624151
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:09:04 GMT
+< Content-Length: 0
+< Etag: 71f39e5a9a0f6b3ae7ec54510cabe5ff
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txff537fb89e374db49606a-005a351aef
+< X-Openstack-Request-Id: txff537fb89e374db49606a-005a351aef
+< Date: Sat, 16 Dec 2017 13:09:03 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.172s
+user	0m0.008s
+sys	0m0.000s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedConElement/黑马程序员_java网上在线支付实战视频.zip HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk4a8c2b3d85834ae0b2c6377d31713acc
+> Content-Length: 372572838
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 13:09:04 GMT
+< Content-Length: 0
+< Etag: 3e44546a31f6ea09cba510a6cea41e10
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx706b4208a26740418c721-005a351aef
+< X-Openstack-Request-Id: tx706b4208a26740418c721-005a351aef
+< Date: Sat, 16 Dec 2017 13:09:37 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m33.423s
+user	0m0.084s
+sys	0m0.540s
+curl: Can't open 'Spark安装教程:'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.168s
+user	0m0.012s
+sys	0m0.016s
+curl: Can't open '10.分布式内存文件系统Tachyon介绍及安装部署.pdf'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.033s
+user	0m0.008s
+sys	0m0.000s
+curl: Can't open '1.Spark及其生态圈简介.pdf'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.030s
+user	0m0.008s
+sys	0m0.000s
+curl: Can't open '2.Spark编译与部署（上）--基础环境搭建.pdf'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.030s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open '2.Spark编译与部署（下）--Spark编译安装.pdf'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.028s
+user	0m0.008s
+sys	0m0.000s
+curl: Can't open '2.Spark编译与部署（中）--Hadoop编译安装.pdf'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.035s
+user	0m0.004s
+sys	0m0.004s
+curl: Can't open '3.Spark编程模型（上）--概念及SparkShell实战.pdf'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.024s
+user	0m0.004s
+sys	0m0.008s
+curl: Can't open '3.Spark编程模型（下）--IDEA搭建及实战.pdf'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.025s
+user	0m0.008s
+sys	0m0.000s
+curl: Can't open '4.Spark运行架构.pdf'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.038s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open '5.Hive（上）--Hive介绍及部署.pdf'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.022s
+user	0m0.008s
+sys	0m0.000s
+curl: Can't open '5.Hive（下）--Hive实战.pdf'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.034s
+user	0m0.004s
+sys	0m0.004s
+curl: Can't open '6.SparkSQL（上）--SparkSQL简介.pdf'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.021s
+user	0m0.004s
+sys	0m0.004s
+curl: Can't open '6.SparkSQL（下）--Spark实战应用.pdf'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.023s
+user	0m0.000s
+sys	0m0.008s
+curl: Can't open '6.SparkSQL（中）--深入了解运行计划及调优.pdf'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.016s
+user	0m0.008s
+sys	0m0.000s
+curl: Can't open '7.SparkStreaming（上）--SparkStreaming原理介绍.pdf'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.027s
+user	0m0.000s
+sys	0m0.004s
+curl: Can't open '7.SparkStreaming（下）--SparkStreaming实战.pdf'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.017s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open '8.SparkMLlib（上）--机器学习及SparkMLlib简介.pdf'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open '8.SparkMLlib（下）--SparkMLlib实战.pdf'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.022s
+user	0m0.004s
+sys	0m0.004s
+curl: Can't open '9.SparkGraphX介绍及实例.pdf'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.004s
+curl: Can't open 'xu:'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open 'AO'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.013s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open 'ConvertDag'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.066s
+user	0m0.000s
+sys	0m0.008s
+curl: Can't open 'ConvertDag.rar'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.027s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open 'dealResult'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.009s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open 'dealResult.rar'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open 'dotAndXml'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.022s
+user	0m0.008s
+sys	0m0.000s
+curl: Can't open 'out.xml'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.007s
+user	0m0.000s
+sys	0m0.004s
+curl: Can't open 'PaRSEC_AO_PB结果'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.004s
+curl: Can't open 'PB'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.020s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open 'recv'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.007s
+user	0m0.000s
+sys	0m0.004s
+curl: Can't open 'resultMyCom'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.013s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open 'resultMyCom.tar.gz'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.021s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open 'SetPriority'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.012s
+user	0m0.000s
+sys	0m0.004s
+curl: Can't open 'testing_dpotrf-0.dot'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.018s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open '会议论文实验结果_AO与PB.zip'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.007s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open '论文实验数据'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.017s
+user	0m0.000s
+sys	0m0.004s
+curl: Can't open '高性能算法期末作业:'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.011s
+user	0m0.004s
+sys	0m0.008s
+curl: Can't open 'data'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.012s
+user	0m0.008s
+sys	0m0.000s
+curl: Can't open 'rollcall.txt'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.004s
+curl: Can't open 'rollcall.txt.bak'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.015s
+user	0m0.000s
+sys	0m0.004s
+curl: Can't open 'SAT.txt'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.022s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open 'SAT.txt.bak'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open 'src'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.007s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open '~WRL1047.tmp'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.016s
+user	0m0.004s
+sys	0m0.004s
+curl: Can't open '~WRL2143.tmp'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.007s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open '~WRL3963.tmp'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.017s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open '实验1代码'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.020s
+user	0m0.004s
+sys	0m0.008s
+curl: Can't open '实验2代码'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.020s
+user	0m0.004s
+sys	0m0.004s
+curl: Can't open '实验报告1.doc'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.008s
+user	0m0.000s
+sys	0m0.004s
+curl: Can't open '实验报告2.doc'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open '~$实验报告2.doc'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.020s
+user	0m0.004s
+sys	0m0.004s
+curl: Can't open '实验报告3.doc'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open '~$实验报告3.doc'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.007s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open '实验报告4.doc'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.019s
+user	0m0.008s
+sys	0m0.000s
+curl: Can't open '期末小论文_改进的禁忌搜索算法在TSP问题中的应用_覃营晟.doc'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.009s
+user	0m0.000s
+sys	0m0.008s
+curl: Can't open '高性能算法期末作业_覃营晟.rar'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.000s

@@ -1,0 +1,30 @@
+
+/dev/mapper/vgbase-lvol0:
+ Timing cached reads:   7322 MB in  2.00 seconds = 3662.95 MB/sec
+
+/dev/mapper/vgbase-lvol0:
+ Timing cached reads:   7402 MB in  2.00 seconds = 3702.45 MB/sec
+
+/dev/mapper/vgbase-lvol0:
+ Timing cached reads:   7246 MB in  2.00 seconds = 3625.04 MB/sec
+
+/dev/mapper/vgbase-lvol0:
+ Timing cached reads:   6966 MB in  2.00 seconds = 3484.93 MB/sec
+
+/dev/mapper/vgbase-lvol0:
+ Timing cached reads:   7592 MB in  2.00 seconds = 3797.90 MB/sec
+
+/dev/mapper/vgbase-lvol0:
+ Timing cached reads:   6158 MB in  2.00 seconds = 3079.96 MB/sec
+
+/dev/mapper/vgbase-lvol0:
+ Timing cached reads:   7234 MB in  2.00 seconds = 3619.46 MB/sec
+
+/dev/mapper/vgbase-lvol0:
+ Timing cached reads:   6846 MB in  2.00 seconds = 3424.85 MB/sec
+
+/dev/mapper/vgbase-lvol0:
+ Timing cached reads:   7316 MB in  2.00 seconds = 3659.74 MB/sec
+
+/dev/mapper/vgbase-lvol0:
+ Timing cached reads:   7620 MB in  2.00 seconds = 3812.21 MB/sec

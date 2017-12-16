@@ -1,0 +1,6 @@
+
+
+/dev/mapper/vgtiered-lvol0 /mnt/tiered_xmu xfs loop,noatime,nodiratime,nobarrier,logbufs=8 0 0
+/home/swift/xfs_file /tmp xfs rw,noatime,nodiratime,attr2,inode64,noquota 0 0
+
+

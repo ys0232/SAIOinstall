@@ -1,0 +1,367 @@
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedCon/01.jpg HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk939a36d889b14a888cf6fa1cc6ee0b17
+> Content-Length: 157680
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 09:24:42 GMT
+< Content-Length: 0
+< Etag: 7fd328613a984fd1df2a0e6d4dc2700c
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx308b84b7702e47bc8453a-005a34e659
+< X-Openstack-Request-Id: tx308b84b7702e47bc8453a-005a34e659
+< Date: Sat, 16 Dec 2017 09:24:41 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.158s
+user	0m0.004s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedCon/130.rmvb HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk939a36d889b14a888cf6fa1cc6ee0b17
+> Content-Length: 52444799
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 09:24:42 GMT
+< Content-Length: 0
+< Etag: aed96be532b9113e8560590358257cd1
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txf31ff617e5154aeeb8309-005a34e659
+< X-Openstack-Request-Id: txf31ff617e5154aeeb8309-005a34e659
+< Date: Sat, 16 Dec 2017 09:24:47 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m6.061s
+user	0m0.008s
+sys	0m0.116s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedCon/154-155.rmvb HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk939a36d889b14a888cf6fa1cc6ee0b17
+> Content-Length: 0
+> 
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 09:24:48 GMT
+< Content-Length: 0
+< Etag: d41d8cd98f00b204e9800998ecf8427e
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx9ac077ab12124dd783752-005a34e65f
+< X-Openstack-Request-Id: tx9ac077ab12124dd783752-005a34e65f
+< Date: Sat, 16 Dec 2017 09:24:47 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.095s
+user	0m0.000s
+sys	0m0.016s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedCon/154-155.rmvb.part HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk939a36d889b14a888cf6fa1cc6ee0b17
+> Content-Length: 75631942
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 09:24:48 GMT
+< Content-Length: 0
+< Etag: 7539cecd6df494a5855221b7cc80d7c0
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx096e4729be8e4401b2219-005a34e65f
+< X-Openstack-Request-Id: tx096e4729be8e4401b2219-005a34e65f
+< Date: Sat, 16 Dec 2017 09:24:53 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m5.825s
+user	0m0.016s
+sys	0m0.152s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedCon/161.rmvb HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk939a36d889b14a888cf6fa1cc6ee0b17
+> Content-Length: 89212108
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 09:24:54 GMT
+< Content-Length: 0
+< Etag: 89997b23fafaa51f020fc74067140b4f
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txa1b5fa5fae3346e0a9a52-005a34e665
+< X-Openstack-Request-Id: txa1b5fa5fae3346e0a9a52-005a34e665
+< Date: Sat, 16 Dec 2017 09:25:04 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m10.478s
+user	0m0.008s
+sys	0m0.192s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedCon/167.rmvb HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk939a36d889b14a888cf6fa1cc6ee0b17
+> Content-Length: 89230366
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 09:25:05 GMT
+< Content-Length: 0
+< Etag: fc9765e74d75499e940b8123f720c818
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx00f742e9d20446518b868-005a34e670
+< X-Openstack-Request-Id: tx00f742e9d20446518b868-005a34e670
+< Date: Sat, 16 Dec 2017 09:25:14 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m10.772s
+user	0m0.016s
+sys	0m0.216s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedCon/175.rmvb HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk939a36d889b14a888cf6fa1cc6ee0b17
+> Content-Length: 0
+> 
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 09:25:16 GMT
+< Content-Length: 0
+< Etag: d41d8cd98f00b204e9800998ecf8427e
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txe07e2237cc0b44df99656-005a34e67b
+< X-Openstack-Request-Id: txe07e2237cc0b44df99656-005a34e67b
+< Date: Sat, 16 Dec 2017 09:25:15 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.114s
+user	0m0.004s
+sys	0m0.008s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedCon/175.rmvb.part HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk939a36d889b14a888cf6fa1cc6ee0b17
+> Content-Length: 74743120
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 09:25:16 GMT
+< Content-Length: 0
+< Etag: aaa8a541977817de2245d6c8355b526a
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx6973d94eac564a1f8579c-005a34e67b
+< X-Openstack-Request-Id: tx6973d94eac564a1f8579c-005a34e67b
+< Date: Sat, 16 Dec 2017 09:25:24 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m9.687s
+user	0m0.008s
+sys	0m0.180s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedCon/176.rmvb HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk939a36d889b14a888cf6fa1cc6ee0b17
+> Content-Length: 89400289
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 09:25:25 GMT
+< Content-Length: 0
+< Etag: 9295a6366a6ef1a8add88b96662b1200
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txc707e18be1e2495b840d8-005a34e684
+< X-Openstack-Request-Id: txc707e18be1e2495b840d8-005a34e684
+< Date: Sat, 16 Dec 2017 09:25:36 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m11.438s
+user	0m0.012s
+sys	0m0.196s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedCon/177-178.rmvb HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk939a36d889b14a888cf6fa1cc6ee0b17
+> Content-Length: 0
+> 
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 09:25:37 GMT
+< Content-Length: 0
+< Etag: d41d8cd98f00b204e9800998ecf8427e
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx77ab3dfacb7745da92dcd-005a34e690
+< X-Openstack-Request-Id: tx77ab3dfacb7745da92dcd-005a34e690
+< Date: Sat, 16 Dec 2017 09:25:36 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.138s
+user	0m0.004s
+sys	0m0.008s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedCon/177-178.rmvb.part HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk939a36d889b14a888cf6fa1cc6ee0b17
+> Content-Length: 9379146
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 09:25:37 GMT
+< Content-Length: 0
+< Etag: b6c1a90bf373717770c1d75d43ab4efc
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txb8530587ed9b4298925bb-005a34e690
+< X-Openstack-Request-Id: txb8530587ed9b4298925bb-005a34e690
+< Date: Sat, 16 Dec 2017 09:25:37 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m1.516s
+user	0m0.008s
+sys	0m0.024s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedCon/fileFromBaseXmu HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk939a36d889b14a888cf6fa1cc6ee0b17
+> Content-Length: 29
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 09:25:38 GMT
+< Content-Length: 0
+< Etag: 096d62f2f15ec752937c794fa6d46a66
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: tx080480c522f649e0a68b0-005a34e691
+< X-Openstack-Request-Id: tx080480c522f649e0a68b0-005a34e691
+< Date: Sat, 16 Dec 2017 09:25:37 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.124s
+user	0m0.000s
+sys	0m0.008s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedCon/filename.txt HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk939a36d889b14a888cf6fa1cc6ee0b17
+> Content-Length: 594
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 09:25:39 GMT
+< Content-Length: 0
+< Etag: 6106d04bfb8c0725370612daa41c3bd6
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txe62464a290a14c57aaa03-005a34e692
+< X-Openstack-Request-Id: txe62464a290a14c57aaa03-005a34e692
+< Date: Sat, 16 Dec 2017 09:25:38 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.145s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open 'S.H.E'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.009s
+user	0m0.004s
+sys	0m0.000s
+curl: Can't open '.mp3'!
+curl: try 'curl --help' or 'curl --manual' for more information
+
+real	0m0.013s
+user	0m0.000s
+sys	0m0.004s
+*   Trying 127.0.0.1...
+* Connected to 127.0.0.1 (127.0.0.1) port 8080 (#0)
+> PUT /v1/AUTH_test/testSpeedCon/xiada.jpg HTTP/1.1
+> Host: 127.0.0.1:8080
+> User-Agent: curl/7.47.0
+> Accept: */*
+> X-Auth-Token: AUTH_tk939a36d889b14a888cf6fa1cc6ee0b17
+> Content-Length: 100396
+> Expect: 100-continue
+> 
+< HTTP/1.1 100 Continue
+* We are completely uploaded and fine
+< HTTP/1.1 201 Created
+< Last-Modified: Sat, 16 Dec 2017 09:25:39 GMT
+< Content-Length: 0
+< Etag: 812b011a6478791b93fcb70081ce48fd
+< Content-Type: text/html; charset=UTF-8
+< X-Trans-Id: txb9cf5c6540ba4704886c6-005a34e692
+< X-Openstack-Request-Id: txb9cf5c6540ba4704886c6-005a34e692
+< Date: Sat, 16 Dec 2017 09:25:38 GMT
+< 
+* Connection #0 to host 127.0.0.1 left intact
+
+real	0m0.207s
+user	0m0.004s
+sys	0m0.004s

@@ -11,7 +11,3 @@ curl -X PUT -v -T file0.txt -H 'X-Auth-Token: <your auth token>' \
     http://127.0.0.1:8080/v1/AUTH_test/myCont0/file0.txt
 
 
-3.download object
-
-curl -k -X GET -H 'X-Auth-Token:2235c348d91445f09708af80150d58f2' \
-http://192.168.1.124:8080/v1/AUTH_f0cb916780504478b03da925451422d5/myfiles/install.log> install.log.backup
