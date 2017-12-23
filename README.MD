@@ -17,33 +17,33 @@ at administrator (root) privileges.
 
 The process of install SAIO:
 
-1. Add the following lines to /etc/rc.local (before the exit 0):
+### 1. Add the following lines to /etc/rc.local (before the exit 0): ###
 
-`mkdir -p /var/cache/swift /var/cache/swift2 /var/cache/swift3 /var/cache/swift4
-chown <your-user-name>:<your-group-name> /var/cache/swift*`
-`mkdir -p /var/run/swift
-chown <your-user-name>:<your-group-name> /var/run/swiftInstall`
+`mkdir -p /var/cache/swift /var/cache/swift2 /var/cache/swift3 /var/cache/swift4`<br>
+`chown <your-user-name>:<your-group-name> /var/cache/swift*`<br>
+`mkdir -p /var/run/swift`<br>
+`chown <your-user-name>:<your-group-name> /var/run/swiftInstall`<br>
 
 remember change "<your-user-name>" to your current user name of your computer
 
-2. Edit /etc/fstab and add:
+### 2. Edit /etc/fstab and add: ###
 
-`/srv/swift-disk /mnt/sdb1 xfs loop,noatime,nodiratime,nobarrier,logbufs=8 0 0
-/home/swift/xfs_file /tmp xfs rw,noatime,nodiratime,attr2,inode64,noquota 0 0`
+`/srv/swift-disk /mnt/sdb1 xfs loop,noatime,nodiratime,nobarrier,logbufs=8 0 0`<br>
+`/home/swift/xfs_file /tmp xfs rw,noatime,nodiratime,attr2,inode64,noquota 0 0`<br>
 
-3. edit the following line in /etc/default/rsync:
-`RSYNC_ENABLE=true`
+### 3. edit the following line in /etc/default/rsync: ###
+`RSYNC_ENABLE=true`<br>
 
-4. run swiftInstall.sh
-`bash swiftInstall.sh`
+### 4. run swiftInstall.sh ###
+`bash swiftInstall.sh`<br>
 
-5. Construct the initial rings using the provided script:
-`remakerings`
+### 5. Construct the initial rings using the provided script:  ###
+`remakerings`<br>
 
-6. Start the “main” Swift daemon processes (proxy, account, container, and object):
-`cd $HOME/bin
-sudo ./startmain
-if it has some errors,just do it again.`
+### 6. Start the “main” Swift daemon processes (proxy, account, container, and object): ###
+`cd $HOME/bin`<br>
+`sudo ./startmain`<br>
+if it has some errors,just do it again.
 
 Other commands like get an X-Storage-Url and X-Auth-Token,or Adding Storage Policies
  to an Existing SAIO.you can follow OpenStack Docs:SAIO
@@ -54,35 +54,35 @@ finally it is the swiftbrowser install according to cschwede/django-swiftbrowser
 
 following its readme in the repository,you also need to prepare its envoiroment
 
-1. Install django
+### 1. Install django ###
 
-`sudo apt-get install python-django`
+`sudo apt-get install python-django`<br>
 
-2. Install swiftbrowser:
+### 2. Install swiftbrowser: ###
 
-`pip install django-swiftbrowser`
+`pip install django-swiftbrowser`<br>
 
 
-3. Please make sure that "tempurl" and "formpost" middlewares are activated in your proxy server. Extract from /etc/swift/proxy-server.conf:
-`vim /etc/swift/proxy-server.conf`
-`[pipeline:main] 
-pipeline = catch_errors gatekeeper healthcheck proxy-logging cache tempurl formpost tempauth proxy-logging proxy-server
-`
+### 3. Please make sure that "tempurl" and "formpost" middlewares are activated in your proxy server. Extract from /etc/swift/proxy-server.conf: ###
+`vim /etc/swift/proxy-server.conf`<br>
+`[pipeline:main] `<br>
+`pipeline = catch_errors gatekeeper healthcheck proxy-logging cache tempurl formpost tempauth proxy-logging proxy-server
+`<br>
 `pipeline = catch_errors gatekeeper healthcheck proxy-logging cache listing_formats
  bulk tempurl ratelimit crossdomain formpost container_sync tempauth staticweb copy container-quotas account-quotas slo dlo versioned_writes proxy-logging proxy-server
-`
+`<br>
 
-`[filter:tempurl] 
-use = egg:swift#tempurl
-`
-`[filter:formpost] 
-use = egg:swift#formpost
-`
-4. Run development server:
+`[filter:tempurl] `<br>
+`use = egg:swift#tempurl`<br>
 
-`django-admin runserver --settings=swiftbrowser.settings`
+`[filter:formpost] `<br>
+`use = egg:swift#formpost`<br>
 
-5. Open "http://127.0.0.1:8000/" in your browser and use 'account:username' to login (or tenant/project:username if using Keystone).
+### 4. Run development server: ###
+
+`django-admin runserver --settings=swiftbrowser.settings`<br>
+
+### 5. Open "http://127.0.0.1:8000/" in your browser and use 'account:username' to login (or tenant/project:username if using Keystone).###
 
 
 
